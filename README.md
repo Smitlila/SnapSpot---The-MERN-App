@@ -1,0 +1,1 @@
+SnapSpot - The MERN APP
