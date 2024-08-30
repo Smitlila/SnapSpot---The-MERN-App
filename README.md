@@ -1,5 +1,7 @@
 SnapSpot - The MERN APP
 
+App Link: https://snapspot-8ceb3f15d663.herokuapp.com/
+
 SnapSpot is a web application that allows users to upload photos of various places along with descriptions. This project is built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
 Features:
